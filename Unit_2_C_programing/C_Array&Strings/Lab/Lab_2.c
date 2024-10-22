@@ -3,6 +3,9 @@
  *
  *  Created on: Nov 30, 2023
  *      Author: hesham
+ *
+ * Calculate Polynomial 
+ * Value for a Set of Inputs
  */
 
 #include "stdio.h"
